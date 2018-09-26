@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         //git test2
         // new line 
         // second line
+        //thirs line
         // Do any additional setup after loading the view, typically from a nib.
     }
 
